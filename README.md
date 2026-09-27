@@ -44,6 +44,7 @@ Esta análise foi estruturada para responder a 3 questões prioritárias de gest
 
 ## 📂 Estrutura do Repositório
 
+```text
 panorama-mortalidade-sp-2021/
 │
 ├── data/
