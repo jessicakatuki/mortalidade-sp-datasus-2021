@@ -44,6 +44,16 @@ Esta análise foi estruturada para responder a 3 questões prioritárias de gest
 
 ## 📂 Estrutura do Repositório
 
-- `data/`: Base consolidada e agregada (`mortalidade_sp_tableau_agregado.csv`) pronta para visualização.
-- `notebooks/`: Script completo do pipeline de dados (`pipeline_extracao_tratamento.ipynb`).
-- `images/`: Capturas de tela e materiais visuais para documentação.
+panorama-mortalidade-sp-2021/
+│
+├── data/
+│   └── mortalidade_sp_tableau_agregado.csv
+│
+├── notebooks/
+│   └── pipeline_extracao_tratamento.ipynb
+│
+├── images/
+│   └── dashboard_datasus_sp_2021.png
+│
+├── README.md
+└── .gitignore
