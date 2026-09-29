@@ -7,7 +7,7 @@ Análise epidemiológica e demográfica da mortalidade no Estado de São Paulo d
 ## 📌 Acesso aos Painéis Interativos
 
 - 🌐 **Painel no Tableau Public:** [Acessar Dashboard Interativo no Tableau](https://public.tableau.com/app/profile/jessica.katuki.farias/viz/PanoramadeMortalidadeeSadePblicaSPDataSUS2021/MortalidadeeSadePblicaSoPaulo2021)
-- 🖥️ **Visão Geral (Power BI):**
+- 🖥️ **Visão Geral (Power BI):** [Acessar Arquivo do Power BI](https://github.com/jessicakatuki/panorama-sp-datasus-2021/blob/main/notebooks/dashboard_mortalidade_sp_2021.pbix)
 
 ![Dashboard de Mortalidade SP](images/dashboard_datasus_sp_2021.png)
 
